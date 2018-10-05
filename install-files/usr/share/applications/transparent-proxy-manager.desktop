@@ -1,0 +1,21 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Transparent proxy management
+Name[en]=Transparent proxy management
+Name[es]=Gestión del proxy transparente
+Name[ca_ES@valencia]=Gestió del proxy transparent
+Name[ca_ES.UTF-8@valencia]=Gestió del proxy transparent
+Name[ca]=Gestió del proxy transparent
+Comment=Configures transparent proxy
+Comment[es]=Configura el proxy transparente
+Comment[ca]=Configura el proxy transparent
+Comment[ca_ES@valencia]=Configura el proxy transparent
+Comment[ca_ES.UTF-8@valencia]=Configura el proxy transparent
+Exec=transparent-proxy-manager.py
+Terminal=false
+Icon=transparent-proxy-manager
+Type=Application
+GenericName=zero-lliurex-transparent-proxy
+NoDisplay=true
+Categories=LliureX-Administration;
