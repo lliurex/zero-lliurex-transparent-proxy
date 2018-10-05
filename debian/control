@@ -1,0 +1,12 @@
+Source: zero-lliurex-transparent-proxy
+Section: admin
+Priority: optional
+Maintainer: Equipo LliureX <lliurex@gva.es>
+Build-Depends: llxsrchelper,debhelper (>= 7.0.50~), zero-dev
+Standards-Version: 3.9.3
+
+Package: zero-lliurex-transparent-proxy
+Architecture: all
+Depends: 
+Description: Transparent proxy management
+ Installs and configures squid-ssl

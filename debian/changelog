@@ -1,0 +1,55 @@
+zero-lliurex-transparent-proxy (1.0) xenial; urgency=medium
+
+  * Disabled debug 
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 10 Aug 2017 13:04:27 +0200
+
+zero-lliurex-transparent-proxy (0.5-lliurex4) xenial; urgency=medium
+
+  * Added iptables-save mechanism
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 10 Aug 2017 12:44:08 +0200
+
+zero-lliurex-transparent-proxy (0.5-lliurex3) xenial; urgency=medium
+
+  * Updated metainfo
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Tue, 25 Jul 2017 14:36:10 +0200
+
+zero-lliurex-transparent-proxy (0.5-lliurex2) xenial; urgency=medium
+
+  * retab
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Mon, 24 Jul 2017 08:58:04 +0200
+
+zero-lliurex-transparent-proxy (0.5) xenial; urgency=medium
+
+  * Added desktop file
+  * Added icon
+  * Fixed bug related with the generation of certificates
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 20 Jul 2017 12:22:52 +0200
+
+zero-lliurex-transparent-proxy (0.4) xenial; urgency=medium
+
+  * Added metainfo
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 19 Jul 2017 12:21:14 +0200
+
+zero-lliurex-transparent-proxy (0.3) xenial; urgency=medium
+
+  * Center window on screen
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 19 Jul 2017 12:14:37 +0200
+
+zero-lliurex-transparent-proxy (0.2) xenial; urgency=medium
+
+  * Fix ppa build
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 19 Jul 2017 12:03:30 +0200
+
+zero-lliurex-transparent-proxy (0.1) xenial; urgency=medium
+
+  * Initial release. 
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Thu, 13 Jul 2017 14:06:27 +0200
