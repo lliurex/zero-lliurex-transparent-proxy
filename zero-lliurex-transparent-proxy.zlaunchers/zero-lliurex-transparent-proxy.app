@@ -15,4 +15,4 @@ ScriptPath=zero-lliurex-transparent-proxy.zmd
 Service=False
 Locks=zero-lliurex-transparent-proxy
 Using=pe
-Groups=adm
+Groups=sudo
