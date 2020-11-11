@@ -9,6 +9,6 @@ Homepage: http://lliurex.net
 
 Package: zero-lliurex-transparent-proxy
 Architecture: all
-Depends: 
+Depends: squid-ssl
 Description: Transparent proxy management
  Installs and configures squid-ssl
